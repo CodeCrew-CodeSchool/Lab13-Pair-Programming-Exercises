@@ -1,3 +1,5 @@
+"use strict";
+
 // ATTENTION: Please create functions for each exercise and test them with your function calls.
 
 
