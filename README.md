@@ -3,5 +3,4 @@ Pair Programming Exercise to train the mind:
 
 - [Loops](./Loops.README.md) 
 - [Arrays](./Arrays.README.md)
-- [Forms](./Forms.README.md)
 - [CSS Grid](./CSS-Grid.README.MD)
