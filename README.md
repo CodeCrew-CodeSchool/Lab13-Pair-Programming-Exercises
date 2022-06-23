@@ -1,7 +1,6 @@
 # Lab13-Pair-Programming-Exercises
 Pair Programming Exercise to train the mind:
 
-- [Loops](./Loops.README.md) 
-- [Arrays](./Arrays.README.md)
-- [Forms](./Forms.README.md)
-- [CSS Grid](./CSS-Grid.README.MD)
+- [Loops](./loops/Loops.README.md) 
+- [Arrays](./arrays/Arrays.README.md)
+- [CSS Grid](./CSS\Grid/CSS-Grid.README.MD)
